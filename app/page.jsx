@@ -403,7 +403,7 @@ export default function HomePage() {
                       htmlFor="name"
                       className="block text-sm font-medium text-zinc-900"
                     >
-                      Your name
+                      Name
                     </label>
                     <input
                       id="name"
